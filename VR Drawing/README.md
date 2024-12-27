@@ -1,0 +1,1 @@
+Personal project of a VR Demo drawing in 3D space with recognition of preset patterns.
