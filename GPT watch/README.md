@@ -1,3 +1,3 @@
-Portfolio
+ChatGPT-like experience for smart watches, with keyboard and voice input.
 
-![Demo](Portfolio/GPT watch/GPT watch app.gif)
+An unreleased personal project created for smart watches running WearOS. Utilizing OpenAI's API and a network connection, the assistant generates text running on the latest models.
